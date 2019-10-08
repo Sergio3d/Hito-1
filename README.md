@@ -1,1 +1,1 @@
-# Hito-1
+# Primer proyecto para el equipo de hackathon
