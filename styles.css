@@ -6,14 +6,20 @@ body{
     font-size:120%;
     }
 div{
-    padding-right: 50px;
-    padding-left: 50px;
-    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 30px;
     padding-bottom: 50px;
     background-color:rgb(167, 167, 167);}
 h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size:250%;}
+    font-size:250%;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    background-color:rgb(167, 167, 167);}
 img{
     margin-right:30px;
     width:292px;
